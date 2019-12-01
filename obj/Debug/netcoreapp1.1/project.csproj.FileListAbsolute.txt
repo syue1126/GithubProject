@@ -1,0 +1,9 @@
+/Users/syue/Documents/project/bin/Debug/netcoreapp1.1/project.deps.json
+/Users/syue/Documents/project/bin/Debug/netcoreapp1.1/project.runtimeconfig.json
+/Users/syue/Documents/project/bin/Debug/netcoreapp1.1/project.runtimeconfig.dev.json
+/Users/syue/Documents/project/bin/Debug/netcoreapp1.1/project.dll
+/Users/syue/Documents/project/bin/Debug/netcoreapp1.1/project.pdb
+/Users/syue/Documents/project/obj/Debug/netcoreapp1.1/project.csproj.CoreCompileInputs.cache
+/Users/syue/Documents/project/obj/Debug/netcoreapp1.1/project.AssemblyInfo.cs
+/Users/syue/Documents/project/obj/Debug/netcoreapp1.1/project.dll
+/Users/syue/Documents/project/obj/Debug/netcoreapp1.1/project.pdb
